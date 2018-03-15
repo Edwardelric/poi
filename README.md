@@ -21,4 +21,4 @@
    * env: 运行环境，可以在配置文件中 env: keyName value 形式设置全局变量,或者在启动的时候 --env.keyName value 形式设置
    
 ## poi 优势:
-   * 配置文件简介易懂    
+   * 配置文件简洁易懂    
