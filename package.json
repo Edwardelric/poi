@@ -1,0 +1,17 @@
+{
+  "name": "poidemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "poi.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^8.1.0",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.7",
+    "vue": "^2.5.16"
+  }
+}
